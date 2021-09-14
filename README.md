@@ -1,2 +1,2 @@
-# DGM Tech solutions
+# ZenVibes Tech
  Official Website 
